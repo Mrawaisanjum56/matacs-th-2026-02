@@ -2,7 +2,7 @@
 
 - **Name:** Awais Anjum
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** 2 hour over 2 days
+- **Time actually spent:** 1 hour over 2 days
 
 ## What this is
 
