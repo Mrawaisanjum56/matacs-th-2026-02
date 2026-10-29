@@ -23,6 +23,6 @@ This is a design exercise, so there is no code or deployed app in this repositor
 
 ## How I used AI tools
 
-[EDIT THIS SECTION SO EVERY SENTENCE IS TRUE FOR YOU.] I used ChatGPT to brainstorm a first draft, and Claude to review it and to help write this final version; I recalculated the scores to check the numbers. **Where I corrected the AI-assisted draft:** (1) it scored price relative to the cheapest eligible bid, so adding or removing one bid changed every other bid's score; I replaced that with a fixed price scale. (2) It scored C using its full stated count of installs even though C's stated period starts before the 5-year window; I changed this so such a count is only an upper bound, shown as a score range, and the proposal is ranked only if the range cannot change its position.
+ I used ChatGPT to brainstorm a first draft, and review it and to help write this final version; I recalculated the scores to check the numbers. **Where I corrected the AI-assisted draft:** (1) it scored price relative to the cheapest eligible bid, so adding or removing one bid changed every other bid's score; I replaced that with a fixed price scale. (2) It scored C using its full stated count of installs even though C's stated period starts before the 5-year window; I changed this so such a count is only an upper bound, shown as a score range, and the proposal is ranked only if the range cannot change its position.
 
-The sample proposals and the brief are not copied into this repository; proposals are referred to by letter only.
+
